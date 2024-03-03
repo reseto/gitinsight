@@ -42,5 +42,9 @@
   },
   "engines": {
     "node": "^v14.12.0"
+  },
+  "devDependencies": {
+    "graphql": "^0.13.0",
+    "typescript": "^3.7.0-beta"
   }
 }
